@@ -1,2 +1,3 @@
-# HackerRank-Solutions
-My solutions to HackerRank questions
+# Coding -Solutions
+My solutions to HackerRank questions and LeetCode questions
+
