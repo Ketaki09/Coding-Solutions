@@ -1,0 +1,17 @@
+Group Anagram 2 
+Valid Palindrome 2
+IpConfig string parsing 
+
+
+UI questions 
+debouncer in react
+box model in CSS 
+grid/flex model difference 
+
+
+Git Questions 
+give a list of Git commands 
+
+Linux questions 
+TOP command 
+give a list of Linux commands
